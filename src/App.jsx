@@ -1,8 +1,10 @@
 import React from 'react'
+import Landing from './Pages/Landing'
 
 const App = () => {
   return (
-    <div className='py-10 header-bg h-[100vh] w-[100vw] flex items-center justify-center'>
+    <div className='min-h-[100vh] w-[100vw]'>
+      <Landing/>
     </div>
   )
 }

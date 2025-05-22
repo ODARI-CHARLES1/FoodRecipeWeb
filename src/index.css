@@ -3,7 +3,83 @@
 @import "tailwindcss";
 
 .header-bg{
-    background-image:url("C:\Users\eng04\Desktop\FoodRecipe\src\assets\headerbg.svg");
+    background-image:url("/src/assets/headerbg.svg");
     background-size:cover;
     background-position: center;
+}
+.header-sm{
+     background-image:url("/src/assets/headersm.svg");
+    background-size:cover;
+    background-position: center;
+}
+
+h1{
+    font-size: 56px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 48px;
+    font-weight: medium;
+}
+
+h3{
+    font-size: 40px;
+    font-weight: medium;
+}
+
+h4{
+    font-size: 32px;
+    font-weight: medium;
+}
+
+h5{
+    font-size: 24px;
+    font-weight: medium;
+}
+h6{
+    font-weight: medium;
+    font-weight: medium;
+}
+
+.p1{
+    font-size: 24px;
+}
+.p2{
+    font-size:18px;
+}
+.p3{
+    font-size: 16px;
+}
+
+.p4{
+    font-size: 14px;
+}
+
+.primary-1{
+    color: #793E37;
+}
+.primary-2{
+    color: #974E44;
+}
+.primary-3{
+    color: #B55D51;
+}
+
+.primary-light{
+    color: #FFF0ED;
+}
+
+.text-1{
+    color: #4c4c4c;
+}
+.text-2{
+    color: #878787;
+}
+.text-3{
+    color: #a5a5a5;
+}
+
+.text-4{
+    color: #ebebeb;
 }
