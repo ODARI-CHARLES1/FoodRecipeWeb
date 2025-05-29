@@ -86,7 +86,8 @@ export const TrendingInfo=[
     profile:{
       imageUrl:profile6,
       name:"Luchy Luchy"
-    }
+    },
+    cells:320
   }
   
 ]
